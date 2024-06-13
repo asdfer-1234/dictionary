@@ -1,0 +1,12 @@
+* Dictionary
+(way too)Simple GUI Dictionary
+Only works for [[https://en.wikipedia.org/wiki/Standard_Korean_Language_Dictionary][Standard Korean Language Dictionary(표준국어대사전)]]
+No documentation whatsoever provided, using this is probably not worth your time, but feel free to contact and ask me anyway.
+
+* Motivation
+I had 3 major ambitions when I started this project.
+- Be more proficient in Rust by making a complex-enough data-structure. ([[https://stackoverflow.com/questions/49245465/how-to-return-a-struct-with-a-reference-to-self-in-rust#49245942][Achieved(kinda) by realizing it's hard self-referential structs without succumbing to the dark side]])
+- Finally be able to make something GUI-based without using a game engine. (Achieved by [[https://relm4.org/][Relm4]] and [[https://www.gtk.org/][GTK4]])
+- Have a dictionary aggregator (Failed)
+
+2/3 ambitions have been conquered! I call this a win.

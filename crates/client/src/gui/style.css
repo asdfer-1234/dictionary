@@ -1,0 +1,35 @@
+
+* {
+	font-family: "Noto Sans CJK KR";
+}
+
+window{
+	background: #eeeeee;
+}
+
+frame{
+	border: 2px blue solid;
+	background: white;
+}
+
+entry{
+	border: 2px blue solid;
+	background: white;
+}
+
+label{
+	color: blue;
+}
+
+.word{
+	color: black;
+	font-weight: bold;
+	font-size: 24px;
+	font-variant: small-caps;
+}
+
+.etymology{
+	color: magenta;
+	font-size: 20px;
+	font-variant: small-caps;
+}

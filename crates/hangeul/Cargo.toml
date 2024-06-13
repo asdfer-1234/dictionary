@@ -1,0 +1,8 @@
+[package]
+name = "hangeul"
+edition = "2021"
+
+[dependencies]
+enum-map = { version = "2.7.3", features = ["serde"] }
+serde = "1.0.197"
+
